@@ -1,0 +1,6 @@
+{
+    "MONGO_URI": "",
+    "SESSION_SECRET": "",
+    "CLIENT_URL_CORS": "",
+    "SERVER_PORT": 5000
+}
