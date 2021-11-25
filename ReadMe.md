@@ -1,13 +1,17 @@
 # Authors Demo Application
 
 > Demo application for managing authors and their books.
+>
 > Application is created for educational purposes to represent coding skills.
+>
 > Intent was just to make a core system around which new code and functionalities could be built.
 
 ## Tech Stack
 
 > Server - Node.js
+>
 > Client - React
+>
 > Database - MongoDB
 
 ## Usage
@@ -67,6 +71,7 @@ npm run client
 > On the first run of the application, default user will be created with admin role
 >
 > > email: admin.admin@default.com
+>
 > > password: admin123
 
 - Version: 1.0.0
